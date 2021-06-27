@@ -1,0 +1,30 @@
+Kami sangat kuat di infrastruktur jaringan.
+Tenaga teknis Kominfo sudah mampu melakukan pengelolaan pelayanan jaringan intranet secara mandiri 100%.
+Perbaikan dan penambahan layanan jaringan baik dengan media Fiber Optik (FO) dan Wireless kami lakukan secara mandiri tanpa adanya bantuan pihak ketiga.
+
+Dari infrastruktur jaringan yang kami miliki terbangun ekosistem :
+- one gateway internet access
+- internet untuk pusat data
+
+- cctv yang terintegrasi dari ... lokasi yang mengintegrasikan ... kamera
+  http://sampangkab.go.id/cctv-streaming/
+
+
+Tools yang kami miliki, lengkap untuk mendukung kebutuhan layanan di atas seperti :
+FO Maintenance Tools 
+- Splicer
+- OTDR
+- Fiber Cleaver
+- Tang
+- Drop Cable Stripper
+- OPM
+- VFL (Visual Fault Locator)
+
+Wireless Maintenance Tools
+- Crimping tool
+- LAN Tester
+
+Tenaga teknis yang kami miliki sebanyak 10 orang dengan sertifikasi mikrotik dan ruckus.
+
+
+
